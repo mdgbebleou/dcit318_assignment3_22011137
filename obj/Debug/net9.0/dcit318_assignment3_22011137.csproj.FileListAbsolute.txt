@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\300\2\DCIT 318\DCIT 318-Assignment 3\dcit318_assignment
 C:\Users\Admin\Documents\300\2\DCIT 318\DCIT 318-Assignment 3\dcit318_assignment3_22011137\obj\Debug\net9.0\dcit318_assignment3_22011137.pdb
 C:\Users\Admin\Documents\300\2\DCIT 318\DCIT 318-Assignment 3\dcit318_assignment3_22011137\obj\Debug\net9.0\dcit318_assignment3_22011137.genruntimeconfig.cache
 C:\Users\Admin\Documents\300\2\DCIT 318\DCIT 318-Assignment 3\dcit318_assignment3_22011137\obj\Debug\net9.0\ref\dcit318_assignment3_22011137.dll
+C:\Users\Admin\Documents\300\2\DCIT 318\DCIT 318-Assignment 3\dcit318_assignment3_22011137\obj\Debug\net9.0\dcit318_assignment3_22011137.sourcelink.json
